@@ -48,7 +48,15 @@
 
 ## 引用
 如果您觉得这项工作有用，请引用以下文献：
-
+```
+@inproceedings{liu2024primo,
+  title={PRIMO: Progressive Induction for Multi-hop Open Rule Generation},
+  author={Liu, Jianyu and Bi, Sheng and Qi, Guilin},
+  booktitle={Proceedings of LREC-COLING 2024},
+  year={2024},
+  pages={12988--12998}
+}
+```
 
 ## 致谢
 PRIMO借鉴了以下杰出的开源项目：
