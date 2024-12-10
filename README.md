@@ -47,7 +47,7 @@ The paper introduces a benchmark dataset containing 495 premise atoms and 2851 s
 * `gen_openrule`: Generates a multi-hop open rule. 
 
 
-##Citation
+## Citation
 If you find this work useful, please cite:
 ```
 @inproceedings{liu2024primo,
@@ -59,7 +59,7 @@ If you find this work useful, please cite:
 }
 ```
 
-##Acknowledgements
+## Acknowledgements
 PRIMO is indebted to the following outstanding open-source projects:
 - [Orion](https://github.com/chenxran/Orion)
 - [Orion](https://github.com/HarderThenHarder/transformers_tasks/tree/main/RLHF)
