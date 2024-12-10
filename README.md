@@ -62,7 +62,7 @@ If you find this work useful, please cite:
 ## Acknowledgements
 PRIMO is indebted to the following outstanding open-source projects:
 - [Orion](https://github.com/chenxran/Orion)
-- [Orion](https://github.com/HarderThenHarder/transformers_tasks/tree/main/RLHF)
+- [RLHF](https://github.com/HarderThenHarder/transformers_tasks/tree/main/RLHF)
 
 
 
